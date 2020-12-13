@@ -1,14 +1,14 @@
 .SUFFIXES:
 .SUFFIXES: .o .cpp
 #============================================================
-TARGET1	=  MapVector
-TARGET2	=  UOMapVector
+TARGET1	=  MapAndVector
+TARGET2	=  UnOrderedMapAndVector
 
-C_SOURCES1 =  MapVector.cpp
-C_SOURCES2 =  UOMapVector.cpp
+C_SOURCES1 =  MapAndVector.cpp
+C_SOURCES2 =  UnOrderedMapAndVector.cpp
 
-C_OBJS1     =  MapVector.o
-C_OBJS2     =  UOMapVector.o
+C_OBJS1     =  MapAndVector.o
+C_OBJS2     =  UnOrderedMapAndVector.o
 
 MY_INCLUDES =
 # merg.h
