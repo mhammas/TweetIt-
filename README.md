@@ -34,4 +34,4 @@ The figure below shows the time taken to search the index inverted index when us
 
 ## To test Unordered Map
 
-./UnOrderedMapVector abcnews-date-text.csv
+./UnOrderedMapAndVector abcnews-date-text.csv
